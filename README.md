@@ -8,6 +8,7 @@ From the court booking to the final score: I design and ship the software clubs 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/WeChat_Mini_Program-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat Mini Program"/>
 </p>
 
 ---
@@ -26,6 +27,7 @@ From the court booking to the final score: I design and ship the software clubs 
 - **Backend:** Go and Ruby on Rails: multi-tenant APIs, PostgreSQL, spec-first OpenAPI
 - **Mobile:** Swift (iOS) and Kotlin (Android) apps for players and club staff
 - **Web:** Next.js dashboards and booking flows
+- **WeChat:** Mini programs where players in China book courts, join matches and follow live scores
 - **Product:** from the first conversation with a club owner to the app in their players' hands
 
 ### 📍 Where
